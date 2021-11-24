@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Soham Mukherjee AKA @okaysoham
 - 👀 I’m interested in Backend development.
 - :blue_heart: Experienced in Java
-- 🌱 I’m currently learning Kotlin and exploring Spring Framework to provide solutions to Client.
+- 🌱 I’m currently exploring Spring Framework to solve real world problems.
 - 💞️ Interested in data structures - algorithms and problem solving.
 
 <!---
